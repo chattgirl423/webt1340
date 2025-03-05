@@ -14,24 +14,33 @@ body {
 
 }
 
+#container {
+	background-color: white;
+}
+
 nav {
 	width: 790px;
 	height: 30px;
 	padding: 10px 10px 10px 0px;
-	margin: 0px auto 0px auto;
-	float: left;
+	margin: 0px 0;
+	background-color: black;
+	color float: left;
+	color: white;
+	font-size: 24px;
+	font-weight;
+	bold;
+	text-docoration: none;
+
 
 }
 
+
+
 header {
-	width: 780px;
+	width: 100%;
 	min-height: 350px;
 	margin: 0px auto 0px auto;
-	padding: 0px 10px 0px 10px;
-	background: rgba(0, 0, 0, 1.00);
-	background-position: bottom right;
-	background-repeat: no-repeat;
-	float: left;
+
 }
 
 header img {
